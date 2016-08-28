@@ -1,0 +1,10 @@
+*{margin: 0; padding: 0;}
+ul{margin: 0; padding-left: 20px;padding-top: 10px; }
+a{width: 80px; line-height: 30px; text-decoration: none;
+border: 1px solid; text-align: center; 
+display: block; color: #000; background-color: #00ffff;}
+li{list-style: none; width: 80px; line-height: 30px;
+display:block; color: #000; background-color: #FFE4C4;
+border: solid 1px; text-align: center;    }
+
+#ull{display: none;}
